@@ -1,4 +1,7 @@
 ## Placa base 
 
+<img src="placa base gg.jpg" />
 
-<img src="placa base.jpg" />
+
+
+1. 
